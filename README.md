@@ -1,2 +1,2 @@
 # playAR
-site specific AR art platform
+playing with the AR toolbox
